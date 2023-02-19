@@ -9,7 +9,7 @@ services:
     branch: main
     envVars:
       - key: BOT_TOKEN 
-        sync: 24
+        sync: false
       - key: API_ID 
         sync: false
       - key: API_HASH 
